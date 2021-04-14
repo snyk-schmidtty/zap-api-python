@@ -1,0 +1,17 @@
+certifi==2020.12.5
+chardet==3.0.4
+Deprecated==1.2.10
+idna==2.10
+mashumaro==1.15
+msgpack==1.0.0
+poetry-version==0.1.5
+PyGithub==1.47
+PyJWT==1.7.1
+pysnyk==0.3.1
+-e git+https://github.com/snyk-schmidtty/zap-api-python.git@1f2b7725ad27f93e5b036e0c63e0a6fef0a2223a#egg=python_owasp_zap_v2.4
+PyYAML==5.3.1
+requests==2.23.0
+six==1.15.0
+tomlkit==0.5.11
+urllib3==1.24.3
+wrapt==1.12.1
