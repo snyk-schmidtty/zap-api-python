@@ -4,4 +4,4 @@ idna==2.10
 -e git+https://github.com/snyk-schmidtty/zap-api-python.git@7ebf1092f865f9c5d10781d8de6ed2235914d0d6#egg=python_owasp_zap_v2.4
 requests==2.25.1
 six==1.15.0
-urllib3==1.26.4
+urllib3==1.26.5
